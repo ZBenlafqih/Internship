@@ -1,0 +1,5 @@
+reset + structure -> login & pass form
+style -> principale css
+button -> choose button (list or add users)
+
+style_modal - jquery-ui ->  modal (more info etudiant)

@@ -1,0 +1,5 @@
+stagiaire : num_stagiaire, nom, prenom, date_de_naissance, CIN, mail, num_formation, num_stage, num_encadrant
+stage : id_stage, intitule, date_debut, date_fin
+formation : id_formation, Etablissement, Filiere, Diplome
+employee :  num_emp, Nom, Prenom, Dept
+admin : id_admin, user, pass, nom, prenom, mail
